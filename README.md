@@ -1,12 +1,47 @@
-# React + Vite
+SkyCast is a simple and responsive weather forecasting web app that provides real-time weather updates for any city around the globe. Powered by modern web technologies and a weather API, it delivers accurate forecasts with a clean, user-friendly interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+🌍 Global City Search – Check weather anywhere in the world
 
-Currently, two official plugins are available:
+📊 Real-Time Data – Temperature, humidity, wind speed, and more
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🖼️ Dynamic Icons – Weather visuals that match current conditions
 
-## Expanding the ESLint configuration
+📱 Responsive Design – Works smoothly on desktop, tablet, and mobile
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Clean UI – Minimal and modern styling for easy readability
+
+🧰 Tech Stack
+HTML5 – Semantic structure
+
+CSS3 – Responsive design with Flexbox/Grid
+
+JavaScript (ES6) – Dynamic content rendering
+
+OpenWeatherMap API – Real-time weather data
+
+<img width="1911" height="928" alt="Screenshot 2025-08-13 142337" src="https://github.com/user-attachments/assets/db7fe987-9470-47ed-a76a-428d53437edb" />
+<img width="1917" height="928" alt="Screenshot 2025-08-13 142437" src="https://github.com/user-attachments/assets/2cdb37b1-7367-4bbb-99d8-4540e26fa876" />
+<img width="1919" height="919" alt="Screenshot 2025-08-13 142504" src="https://github.com/user-attachments/assets/d0860e8f-1329-467c-b891-fca0087f5524" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
