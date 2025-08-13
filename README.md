@@ -1,4 +1,4 @@
-SkyCast is a simple and responsive weather forecasting web app that provides real-time weather updates for any city around the globe. Powered by modern web technologies and a weather API, it delivers accurate forecasts with a clean, user-friendly interface.
+WeatherNow is a simple and responsive weather forecasting web app that provides real-time weather updates for any city around the globe. Powered by modern web technologies and a weather API, it delivers accurate forecasts with a clean, user-friendly interface.
 
 ✨ Features
 🌍 Global City Search – Check weather anywhere in the world
